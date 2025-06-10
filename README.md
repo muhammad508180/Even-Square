@@ -1,18 +1,16 @@
-# Python Practice Projects
+# Squaring Even Numbers
 
-This repository contains various Python practice projects and exercises.
+A simple Python program that calculates the square of even numbers from 1 to 10.
 
-## Projects
+## Description
+This program:
+- Iterates through numbers 1 to 10
+- Identifies even numbers
+- Calculates their squares
+- Stores and prints the results
 
-### Squaring Even Numbers
-- File: `squ_even.py`
-- Description: A simple Python program that squares even numbers from 1 to 10 and stores them in a list.
-- Output: The program prints the list of squared even numbers as it builds it.
-
-## How to Run
-1. Make sure you have Python installed on your system
-2. Clone this repository
-3. Run the Python file:
-   ```
-   python squ_even.py
-   ``` 
+## Usage
+Run the program using Python:
+```python
+python squ_even.py
+``` 
