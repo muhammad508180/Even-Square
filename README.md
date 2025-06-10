@@ -11,6 +11,6 @@ This program:
 
 ## Usage
 Run the program using Python:
-```python
+```bash
 python squ_even.py
 ``` 
