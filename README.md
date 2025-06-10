@@ -1,6 +1,6 @@
 # Squaring Even Numbers
 
-A simple Python program that calculates the squares of even numbers from 1 to 10.
+A simple Python program that calculates the square of even numbers from 1 to 10.
 
 ## Description
 This program:
