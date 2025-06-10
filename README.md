@@ -1,23 +1,23 @@
-# Birthday Party Invitation Generator
+# Friends Invitation Program
 
-A simple Python program that generates personalized birthday party invitations for a list of friends.
+A simple Python program that sends personalized invitation messages to a list of friends.
+
+## Description
+This program takes a list of friend names and uses a for loop to send a personalized invitation message to each friend.
 
 ## Features
 - Takes a list of friend names
-- Generates personalized invitation messages for each friend
-- Uses Python's f-strings for clean string formatting
+- Sends personalized invitation messages
+- Simple and easy to use
 
-## How to Run
-1. Make sure you have Python installed on your system
-2. Run the program using: `python invitation.py`
+## Usage
+1. Run the program using Python:
+```bash
+python invitation.py
+```
 
-## Example Output
-```
-Hello Dear saad, I would like to invite you to my Birthday Party
-Hello Dear Salman, I would like to invite you to my Birthday Party
-Hello Dear kamran, I would like to invite you to my Birthday Party
-Hello Dear sajjad, I would like to invite you to my Birthday Party
-```
+## Output
+The program will print personalized invitation messages for each friend in the list.
 
 ## Requirements
 
